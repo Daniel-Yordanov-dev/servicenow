@@ -2,7 +2,7 @@ import requests
 from urllib.parse import quote
 
 
-url = "https://dev212688.service-now.com/oauth_token.do"
+url = "https://dev201944.service-now.com/oauth_token.do"
 username = 'admin'
 password = 'hg+WnvVN1O9+'
 client_id = 'be587054626d4e85acbd29bb9c3b180e'
